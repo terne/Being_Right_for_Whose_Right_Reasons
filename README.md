@@ -20,7 +20,7 @@ negative correlations between model size and rationale agreement as well as no e
 
 ## Data and code
 
-You can find the data description and codebook in [data](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/data), and the code for reproducing our experiments in [code](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/code).
+You can find the data description and codebook in [data](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/tree/main/data), and the code for reproducing our experiments in [code](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/tree/main/code).
 
 
 
