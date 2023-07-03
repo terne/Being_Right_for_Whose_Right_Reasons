@@ -22,7 +22,8 @@ negative correlations between model size and rationale agreement as well as no e
 
 You can find the data description and codebook in [data](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/tree/main/data), and the code for reproducing our experiments in [code](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/tree/main/code).
 
-
+The content in [code](https://github.com/terne/Being_Right_for_Whose_Right_Reasons/tree/main/code) is a git submodule from [this repository](https://github.com/lautel/fair-rationales). Details on how to integrate our code and data are given in its [README](https://github.com/lautel/fair-rationales/blob/main/README.md) file.
+  
 
 ## Citation
 If using the code and data in this repository, please cite our
