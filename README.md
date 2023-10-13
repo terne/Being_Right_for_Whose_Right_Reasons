@@ -1,5 +1,8 @@
 # Being Right for Whose Right Reasons
 
+## News
+
+* 10-2023: Now the data is also available in [Huggingface](https://huggingface.co/datasets/coastalcph/fair-rationales)
 
 ## Abstract
 Explainability methods are used to benchmark the extent to which model predictions align with human rationales
